@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asiya-Yunusa
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Terraform, Git and how to create CI/CD pipelines. 
-- 💞️ I’m looking to collaborate on proects that involve designing deployment pipelines for web applications
+- 🌱 I’m currently learning a lot of stuff.
+- 💞️ I’m looking to collaborate on proects that involve designing and implementing deployment pipelines for web applications
 - 📫 How to reach me asiyaiyunusa@gmail.com or WhatsApp: +2348068824133
 
 <!---
